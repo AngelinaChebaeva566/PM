@@ -2,3 +2,4 @@
 # [Диаграмма взаимодействия](https://disk.yandex.ru/i/HEGhEqO0BWVPiw)
 # [Диаграмма состояния](https://disk.yandex.ru/i/pZQE0tgIqNBJjQ)
 # [Диаграмма классов](https://disk.yandex.ru/i/ssCmO_SQPtrI3w)
+# [Презентация](https://disk.yandex.ru/i/Dc2uAPLg4JlBxA)
